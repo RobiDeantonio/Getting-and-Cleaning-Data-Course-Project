@@ -20,7 +20,6 @@ The data linked to from the course website represent data collected from the acc
     * y_train.txt
     * y_test.txt
 
-Finally, you can see the file [tidy.csv](https://github.com/RobiDeantonio/Getting-and-Cleaning-Data-Course-Project/blob/master/tidy.csv) data set as output for run the scrip run_analysis.R
-
+Finally, you can see the file [tidy.csv](https://github.com/RobiDeantonio/Getting-and-Cleaning-Data-Course-Project/blob/master/tidy.csv) data set as output for run the scrip [run_analysis.R](https://github.com/RobiDeantonio/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R)
 
 To know more about the data see the document code book
