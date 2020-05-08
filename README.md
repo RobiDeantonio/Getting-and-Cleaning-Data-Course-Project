@@ -3,7 +3,7 @@
 Class Project for ["Getting and Cleaning Data"](https://www.coursera.org/learn/data-cleaning/home/welcome)
 The class project for Getting and Cleaning Data was to read in the **"Human Activity Recognition Using Smartphones"** data set, perform an analysis on the data set, and output a tidy data set.
 
-The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available in this[site](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available in this [site](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 [Here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) are the data for the project:
 
@@ -20,8 +20,7 @@ The data linked to from the course website represent data collected from the acc
     * y_train.txt
     * y_test.txt
 
-Once those steps are complete, you can run the R script (run_analysis.R).
+Finally, you can see the file [tidy.csv](https://github.com/RobiDeantonio/Getting-and-Cleaning-Data-Course-Project/blob/master/tidy.csv) data set as output for run the scrip run_analysis.R
 
-The output of the R script is a tidy data set, tidy.csv.
 
 To know more about the data see the document code book
